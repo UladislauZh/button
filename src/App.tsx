@@ -1,7 +1,6 @@
 import React, { MouseEvent } from "react";
 import "./App.css";
 import { Button } from "./components/Button";
-import { log } from "console";
 
 function App() {
   const Button1Foo = (subscriber: string, age: number) => {
